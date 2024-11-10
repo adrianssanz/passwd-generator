@@ -1,6 +1,6 @@
 # Generador de Contraseñas
 
-![GitHub](https://img.shields.io/badge/GitHub-Juego%20de%20la%20Serpiente-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Generador%20de%20Contraseñas-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-100000?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=white)
