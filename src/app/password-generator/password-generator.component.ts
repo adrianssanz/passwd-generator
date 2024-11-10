@@ -57,6 +57,6 @@ export class PasswordGeneratorComponent {
     input.select();
     document.execCommand('copy');
     document.body.removeChild(input);
-    alert('Contraseña copiada al portapapeles!');
+    alert('Contraseña copiada al portapapeles!'+ ' ' + this.passwdGenerada);
   }
 }
