@@ -1,27 +1,49 @@
-# Myapp
+# Generador de Contraseñas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+![GitHub](https://img.shields.io/badge/GitHub-Juego%20de%20la%20Serpiente-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-100000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-100000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-100000?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=flat-square&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-4078c0?style=flat-square&logo=githubpages)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descripción
 
-## Code scaffolding
+Esta aplicación generadora de contraseñas ha sido desarrollada utilizando Angular. Su objetivo es crear contraseñas seguras y aleatorias de manera sencilla y rápida. Los usuarios pueden personalizar la longitud de la contraseña y elegir opciones como incluir caracteres especiales, mayúsculas y números, para garantizar la seguridad de sus cuentas. Con una interfaz intuitiva y fácil de usar, la aplicación facilita la generación de contraseñas fuertes para proteger la privacidad online.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Características
 
-## Build
+- **Generación Segura:** Crea contraseñas aleatorias y seguras en minutos.
+- **Personalización:** Ajusta la longitud y los tipos de caracteres (mayúsculas, minúsculas, números, símbolos) según tus necesidades.
+- **Interfaz Intuitiva:** Diseño limpio y fácil de usar para una experiencia fluida.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologías Utilizadas
 
-## Running unit tests
+- HTML
+- CSS
+- JavaScript
+- Angular
+- TypeScript
+- Bootstrap
+- GitHub Pages
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Demo
 
-## Running end-to-end tests
+Puedes probar la aplicación [aquí](https://adrianssanz.github.io/passwd-generator/).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contribuciones
 
-## Further help
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
+3. Realiza tus cambios y comitea (`git commit -m 'Añadir nueva característica'`).
+4. Haz un push a la rama (`git push origin feature/nueva-caracteristica`).
+5. Crea un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE).
