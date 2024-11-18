@@ -38,7 +38,7 @@ export class PasswordGeneratorComponent {
       caracteres += 'abcdefghijklmnopqrstuvwxyz';
     }
     if (this.simbolos){
-      caracteres += '!@#$%^&*()!@#$%^&*()_+[]{}|;:,.<>?';
+      caracteres += '!@#$%^&*()!@#$%^&*()_+[]{}|?';
     }
 
     let password = '';
